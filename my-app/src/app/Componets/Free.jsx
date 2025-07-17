@@ -36,7 +36,7 @@ function Free() {
       </div>
 
       {/* Right Section */}
-      <div className="flex flex-col justify-between items-end gap-4 z-10 w-[50%] p-6">
+      <div className="flex flex-col justify-between items-end gap-4 z-10 w-[50%] py-6 pr-2 lg:pr-6">
         <div className="text-right">
           <h1 className="text-xl font-semibold text-gray-600">We are here</h1>
           <h1 className="text-xl font-semibold text-gray-600">to help!</h1>
